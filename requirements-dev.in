@@ -1,0 +1,10 @@
+black
+isort
+ruff
+pytest
+detect-secrets
+cyclonedx-bom
+pip-tools>=7.5.1
+pip>=25.3
+setuptools>=70
+wheel>=.0.43

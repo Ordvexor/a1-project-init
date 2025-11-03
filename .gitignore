@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.evidence-cache/
+evidence/logs/*
+!evidence/logs/bootstrap.log
+.env
